@@ -1,10 +1,10 @@
-# jingsiding-arch.github.io
+# 课堂考勤 GitHub Pages
 
-GitHub Pages starter site for <https://jingsiding-arch.github.io>.
+This repository publishes the static build of the classroom attendance prototype:
 
-This repository follows the GitHub Pages quickstart pattern:
+- Site: <https://jingsiding-arch.github.io/>
+- Main entry: `index.html` and `attendance.html`
+- Source build: `../课堂考勤/dist`
 
-- Repository name: `jingsiding-arch.github.io`
-- Source branch: `main`
-- Source folder: `/`
+Deploy source: GitHub Pages from `main` branch, root folder.
 
