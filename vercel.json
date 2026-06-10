@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/attendance-prd.html?screen=mobile-tasks",
+      "permanent": false
+    }
+  ]
+}
